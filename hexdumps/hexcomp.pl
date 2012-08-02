@@ -1,0 +1,1 @@
+;+++++++++++++++++++++++++++++++++++; hexcomp.pl@files_found = <*>;$size = @files_found;for ($count=0; $count<$size; $count++){`cat "cool" > newfile`}

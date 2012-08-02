@@ -1,0 +1,1 @@
+@files_found = <*>;$size = @files_found;for ($count=0; $count<$size; $count++){`hexdump $files_found[$count] > $files_found[$count].hd`}
