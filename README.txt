@@ -9,7 +9,7 @@ http://www.paperrad.org
 
 Requirements:  nasasm, nesbasic
 
-"It's cool to look bummy and be a dum dummy" - Slick Rick
+"_________" - ___
 
 ********************************************************
 
